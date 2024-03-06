@@ -113,9 +113,6 @@ if __name__ == '__main__':
 
  <img width="210" alt="before start" src="https://github.com/KeerthikaNagarajan/A-COUNTDOWN-TIMER-USING-PYTHON/assets/93427089/847224c1-94d2-41e0-a723-a517982cc323">
 
-## Python IDLE file link: 
-https://drive.google.com/file/d/10ZaeSzN2GzxdwuALdD-M3nNISf-Oz6Rn/view?usp=sharing
-
 ## Conclusion
 The countdown timer successfully ran for the specified duration, providing real-time updates on the remaining time. Users were able to start, pause, and reset the timer as needed, allowing for flexible time management. Upon completion of the timer, a notification was displayed, indicating that the time was up. Overall, the application functioned as intended, providing a convenient tool for countdown timing tasks.
 
